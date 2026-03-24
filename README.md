@@ -11,6 +11,7 @@ In this project we are gradually translating the Pterodactyl panel to any langua
 | Russia   | :white_check_mark: |
 | Norway   | :white_check_mark: |
 | Dutch    | :white_check_mark: |
+| French   | :white_check_mark: |
 
 ## Installation
 
